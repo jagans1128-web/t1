@@ -1,0 +1,535 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    overflow-x: hidden;
+}
+.menuicon{
+    
+    cursor: pointer;
+}
+.head{
+   font-size: 6em;
+   font-weight: 700;
+   color: white;
+   overflow: hidden;
+   
+   
+   
+}
+.content{
+    margin-top: -700px;
+}
+.menuicon div{
+    width: 38px;
+    height: 3px;
+    background-color: white;
+    margin: 6px 0;
+    
+}
+.menuicon{
+    margin-top: 40px;
+}
+.nav{
+    display: flex;
+    align-items: self-start;
+    justify-content: space-between;
+    
+}
+.nav h1{
+    margin-top: 40px;
+    color: white;
+}
+.secondimg{
+   height: 100vh;
+   width: 100vw;
+   object-fit: cover;
+}
+.content{
+    margin-top: 20%;
+    margin-left: 50px;
+    text-align: center;
+}
+.para{
+    
+     font-family:'Mukta Mahee', sans-serif;
+
+    font-size:32px;
+
+    font-weight:200;
+
+    color:rgba(255,255,255,0.9);
+
+    margin-top:20px;
+}
+.button{
+    display:inline-block;
+    padding:16px 40px;
+    border:2px solid #fff;
+    color:#fff;
+    letter-spacing:4px;
+    font-family:'Mukta Mahee', sans-serif;
+    font-size:14px;
+    font-weight:700;
+    margin-top: 10PX;
+
+
+
+}
+.slidertwo {
+    height: 500px;
+    width: 600px;
+    margin-top: 10%;
+    margin-left: 8%;
+}
+.sidetext p{
+    width: 480px;
+    margin-top: 15px;
+    padding: 10px;
+     font-family: 'Mukta Mahee', sans-serif;
+   
+}
+.sidetext{
+    margin-left: 60%;
+    
+    margin-top: -400px;
+}
+.playbutton img{
+    margin-left: 60%;
+    height: 50px;
+    width: 50px;
+    margin-top: 10px;
+   
+}
+.playbutton h1{
+    margin-left: 65%;
+    margin-top: -50px;
+    color: green;
+
+}
+.hr{
+    height: 300px;
+}
+.thirdcontent{
+    background-color: whitesmoke;
+    text-align: center;
+    height: 550px;
+    margin-top: 100px;
+    margin-bottom: -100px;
+    
+}
+.one{
+    background-color: ghostwhite;
+    
+    display: flex;
+    flex: 1;
+  
+    
+}
+.two{
+    margin-top: 7%;
+    margin-left: 30%;
+}
+.p{
+    margin-top: 20px;
+    width: 600px;
+}
+.two h1{
+    font-weight: 1000;
+}
+.two p{
+    margin-right: 20%;
+    margin-left: -100px;
+    font-family:'Mukta Mahee', sans-serif;
+   color: gainsboro;
+     font-size:20px;
+     width: 750px;
+     font-weight: 300;
+
+    
+}
+.mainbox{
+    background-color: blue;
+    width: 100%;
+    height: 100%;
+     background-color: ghostwhite;
+}
+.containerbox{
+     background-color: ghostwhite;
+        display: flex;
+      flex-wrap: wrap;
+      gap: 30px;
+     margin-left: 15%;
+     margin-top: 30px;
+     width: 100%;
+     
+    
+}
+.boxone{
+    height: 300px;
+    width: 300px;
+   
+   
+
+}
+.boxone img{
+    height: 100px;
+    width: 200px;
+    margin-left: 20px;
+
+}
+.boxone h1{
+    margin-left: 50px;
+}
+.boxone p{
+     font-family:'Mukta Mahee', sans-serif;
+}
+.boxtwo{
+    height: 300px;
+    width: 300px;
+    
+
+}
+.boxtwo img{
+    height: 100px;
+    width: 200px;
+    margin-left: 20px;
+
+}
+.boxtwo h1{
+    margin-left: 50px;
+}
+.boxtwo p{
+     font-family:'Mukta Mahee', sans-serif;
+}
+.boxthree{
+    height: 300px;
+    width: 300px;
+   
+
+}
+.boxthree img{
+    height: 100px;
+    width: 200px;
+    margin-left: 20px;
+
+}
+.boxthree h1{
+    margin-left: 50px;
+}
+.boxthree p{
+     font-family:'Mukta Mahee', sans-serif;
+}
+.boxfour{
+    height: 300px;
+    width: 300px;
+    
+
+}
+.boxfour img{
+    height: 100px;
+    width: 200px;
+    margin-left: 20px;
+
+}
+.boxfour h1{
+    margin-left: 50px;
+}
+.boxfour p{
+     font-family:'Mukta Mahee', sans-serif;
+}
+.boxfive{
+    height: 300px;
+    width: 300px;
+    
+
+}
+.boxfive img{
+    height: 100px;
+    width: 200px;
+    margin-left: 20px;
+
+}
+.boxfive h1{
+    margin-left: 50px;
+}
+.boxfive p{
+     font-family:'Mukta Mahee', sans-serif;
+}
+.boxsix{
+    height: 300px;
+    width: 300px;
+   
+
+}
+.boxsix img{
+    height: 100px;
+    width: 200px;
+    margin-left: 20px;
+
+}
+.boxsix h1{
+    margin-left: 50px;
+}
+.boxsix p{
+     font-family:'Mukta Mahee', sans-serif;
+}
+.textbox h1{
+    margin-left: 30%;
+    font-size: 5em;
+    margin-top: 200px;
+    
+
+}
+.textbox p{
+    width: 600px;
+    margin-left: 25%;
+    margin-top: 20px;
+    font-family:'Mukta Mahee', sans-serif;
+}
+.imagecontainer img{
+ 
+    margin-left: 6%;
+    margin-top: 20px;
+    z-index: 2;
+}
+.greencontainer{
+    height: 1200px;
+    width: 100%;
+    background-color:#65c0ba;
+    z-index: -1;
+    margin-top: -150px;
+    
+}
+.greentext h1{
+  margin-top: 600px;
+  margin-left: 30%;
+   font-size: 5em;
+   z-index: 3;
+   
+}
+.greentext p{
+     width: 600px;
+    margin-left: 25%;
+    margin-top: 20px;
+    font-family:'Mukta Mahee', sans-serif;
+    font-size:20px;
+    
+     color: black;
+    
+
+   
+
+}
+.greentext{
+    margin-top: -1500px;
+}
+.firstbox{
+    height: 500px;
+    width: 300px;
+    background-color: white;
+    
+}
+.firstbox img{
+    height: 200px;
+    width: 300px;
+}
+.firstbox p{
+    color: #6c757d;
+    margin-left: 10px;
+    margin-top: 10px;
+    padding: 10px;
+
+}
+.firstbox h1{
+    margin-left: 10px;
+    margin-top: 10px;
+}
+.secondbox{
+    height: 500px;
+    width: 300px;
+    background-color: white;
+    
+}
+.secondbox img{
+    height: 200px;
+    width: 300px;
+}
+.secondbox p{
+    color: #6c757d;
+    margin-left: 10px;
+    margin-top: 10px;
+    padding: 10px;
+
+}
+.secondbox h1{
+    margin-left: 10px;
+    margin-top: 10px;
+}
+.thirdbox{
+    height: 500px;
+    width: 300px;
+    background-color: white;
+    
+}
+.thirdbox img{
+    height: 200px;
+    width: 300px;
+}
+.thirdbox p{
+    color: #6c757d;
+    margin-left: 10px;
+    margin-top: 10px;
+    padding: 10px;
+
+}
+.thirdbox h1{
+    margin-left: 10px;
+    margin-top: 10px;
+}
+.threeboxcontainer{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+ .paragraph{
+      width:100%;
+      padding:70px 80px;
+      margin-top: 300px;
+    }
+
+    .paratitle{
+      text-align:center;
+      font-family:'Playfair Display', serif;
+      font-size:72px;
+      font-weight:700;
+      margin-bottom:80px;
+      color:#000;
+    }
+
+    .testimonial-wrapper{
+      display:flex;
+      justify-content:space-between;
+      gap:60px;
+      flex-wrap:wrap;
+    }
+
+    .card{
+      flex:1;
+      min-width:300px;
+    }
+
+    .cardimg{
+      width:72px;
+      height:72px;
+      border-radius:50%;
+      overflow:hidden;
+      margin-bottom:25px;
+    }
+
+    .cardimg img{
+      width:100%;
+      height:100%;
+      object-fit:cover;
+    }
+
+    .cardtext{
+      font-size:20px;
+      line-height:1.8;
+      font-style:italic;
+      font-weight:300;
+      color:#1f1f1f;
+      margin-bottom:35px;
+    }
+
+    .cardname{
+      font-size:18px;
+      color:#7b7b7b;
+      font-style:italic;
+    }
+    .paraa h1{
+        margin-left: 35%;
+        margin-top: 10%;
+        font-size: 3em;
+        font-weight: 700;
+
+
+    }
+    .paraa p{
+        width: 700px;
+        margin-left: 25%;
+        margin-top: 30px;
+         font-family:'Mukta Mahee', sans-serif;
+         font-size:20px;
+         font-weight:100;
+
+    }
+    .fourboxone img{
+        height: 200px;
+        width: 300px;
+    }
+    .fourboxtwo img{
+        height: 200px;
+        width: 300px;
+    }
+    .fourboxthree img{
+        height: 200px;
+        width: 300px;
+    }
+    .fourboxfour img{
+        height: 200px;
+        width: 300px;
+    }
+    .fourbox{
+        display: flex;
+        flex-direction: row;
+        justify-content: space-evenly;
+        margin-top: 30px;
+        height: 400px;
+    }
+  
+   .footerbox{
+    height: 700px;
+    background-color: #1a1a1a;;
+    color: white;
+    width: 100%;
+    
+   }
+
+.ulbox{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    text-decoration: none;
+    margin-top: 30px;
+}
+.ulbox ul{
+    margin-top: 50px;
+    padding: 20px;
+    text-decoration: none;
+    text-decoration-style: none;
+}
+.ulbox ul li{
+    margin-bottom: 30px;
+    list-style: none;
+    font-family:' "Mukta Mahee", arial, sans-serif';
+    color: #6c757d ;
+    
+}
+.in{
+    border: none;
+    border-bottom: 2px solid whitesmoke;
+    outline: none;
+    padding: 5px;
+    background: transparent;
+}
+.endingpoint p{
+    text-align: center;
+    margin-top: 30px;
+    color: #6c757d;
+}
+.social{
+    margin-left: 40%;
+    height: 50px;
+    
+    
+}
